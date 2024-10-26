@@ -1,0 +1,16 @@
+.counter
+{
+  height: 250px;
+  width: 250px;
+  margin: 300px auto;
+
+  border-radius: 50%;
+}
+.counter h1
+{
+  text-align: center;
+}
+.counter button
+{
+  margin-left: 30px;
+}
